@@ -29,8 +29,10 @@ The application allows users to maintain a persistent list of tasks by storing t
 ## How to Run
 1. Open the project folder in VS Code or any terminal.
 2. Run the program using the command:
-        ```bash
-python todo.py
+               ```bash
+               python todo.py
+
+
 Sample Output
 ====== To-Do List ======
 1. Show tasks
