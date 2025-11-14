@@ -40,3 +40,6 @@ Sample Output
 Select an option: 2
 Enter task to add: Submit assignment
 Task added successfully.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f734b75-40a7-48d6-8c3b-ed61b4660917" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4879028-6211-431c-83a5-9480bec9b565" />
+
